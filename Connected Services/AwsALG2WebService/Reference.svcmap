@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2022/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2022/XMLSchema" ID="11c28754-584d-49e9-aa3b-85d8b79ed5a7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG2/Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service4.xsd" MetadataType="Schema" ID="e55a21fc-823e-4f29-af46-415f2f7b8c5c" SourceId="1" SourceUrl="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG2/Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service1.disco" MetadataType="Disco" ID="925d5b14-3c09-4d8d-850a-f0dbe9a8f175" SourceId="1" SourceUrl="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG2/Service.svc?disco" />
+    <MetadataFile FileName="Service41.xsd" MetadataType="Schema" ID="19111dea-7d11-40fa-80d2-816af188756b" SourceId="1" SourceUrl="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG2/Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service42.xsd" MetadataType="Schema" ID="55cb0a0b-934c-4da4-9151-6ddbc3281bca" SourceId="1" SourceUrl="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG2/Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service43.xsd" MetadataType="Schema" ID="cc9bd3a3-78c9-42a1-8bd4-2eea9856647d" SourceId="1" SourceUrl="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG2/Service.svc?xsd=xsd3" />
+    <MetadataFile FileName="ALG2Service1.wsdl" MetadataType="Wsdl" ID="ef83552f-9d66-4ab2-b5f5-7ca7692e608d" SourceId="1" SourceUrl="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG2/Service.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

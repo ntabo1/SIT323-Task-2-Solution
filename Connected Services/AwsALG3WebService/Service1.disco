@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG3/Service.svc?wsdl" docRef="http://at2lb-1045549652.us-east-1.elb.amazonaws.com/ALG3/Service.svc" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+</discovery>
